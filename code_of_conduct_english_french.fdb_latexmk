@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1440950271 "code_of_conduct_english_french.tex" "code_of_conduct_english_french.pdf" "code_of_conduct_english_french" 1440950272
+["pdflatex"] 1440950805 "code_of_conduct_english_french.tex" "code_of_conduct_english_french.pdf" "code_of_conduct_english_french" 1440950806
   "/usr/local/texlive/2015basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty" 1303254447 7140 ece2cc23d9f20e1f53975ac167f42d3e ""
   "/usr/local/texlive/2015basic/texmf-dist/tex/generic/oberdiek/ifvtex.sty" 1335995445 6797 68c89f65e01894df882dd523d3fc0a8f ""
@@ -27,16 +27,15 @@
   "/usr/local/texlive/2015basic/texmf-dist/tex/latex/microtype/microtype-xetex.def" 1369617620 13957 fa34fc2e741a29cc7f0de65bffd5e930 ""
   "/usr/local/texlive/2015basic/texmf-dist/tex/latex/microtype/microtype.cfg" 1369617620 23086 f25ab3218b2c6f172ac44dbf381961e1 ""
   "/usr/local/texlive/2015basic/texmf-dist/tex/latex/microtype/microtype.sty" 1369617620 68045 fe140a1fc105016163d67aadd9efe194 ""
-  "/usr/local/texlive/2015basic/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg" 1369617620 9806 e11c490214d84f69a5ecdaa438080b6f ""
   "/usr/local/texlive/2015basic/texmf-dist/tex/latex/paracol/paracol.sty" 1383954239 100451 8a8ed3f3fc90130560e25d22eb3b5171 ""
   "/usr/local/texlive/2015basic/texmf-dist/tex/latex/tipa/t3cmr.fd" 1137110956 1257 fd5b1c2f0106f9cf12cdb2ff961987c5 ""
   "/usr/local/texlive/2015basic/texmf-dist/tex/latex/tipa/t3enc.def" 1137110956 26483 c461a68c34040cb0d96c43e86c012a6d ""
   "/usr/local/texlive/2015basic/texmf-dist/tex/xelatex/xetex-def/xetex.def" 1427500247 17536 f287c5eacddc627c62141f8a352c932d ""
   "/usr/local/texlive/2015basic/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1315783907 205722 8027ed7ab2230086d647802c25f3ee42 ""
-  "code_of_conduct_english_french.aux" 1440950272 615 11b2b5fb8403d6bb3cb04fe352bdcec9 ""
-  "code_of_conduct_english_french.tex" 1440950269 5242 c2ec3125ce32ceaf71774e18ea37b52a ""
+  "code_of_conduct_english_french.aux" 1440950805 615 11b2b5fb8403d6bb3cb04fe352bdcec9 ""
+  "code_of_conduct_english_french.tex" 1440950804 5279 42a6d3df1154594282cf548ce1cb5773 ""
   "images/octanis_org_logo_large.png" 1423918779 23086 4e50f4deb5717d08e7a711419103f77c ""
   (generated)
-  "code_of_conduct_english_french.log"
   "code_of_conduct_english_french.pdf"
   "code_of_conduct_english_french.aux"
+  "code_of_conduct_english_french.log"
