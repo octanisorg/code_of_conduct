@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.30)  30 AUG 2015 18:46
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.30)  30 AUG 2015 19:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -646,25 +646,30 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 1371) in paragraph at lines 74--75
+Underfull \hbox (badness 1371) in paragraph at lines 72--73
 \EU1/GibsonLight(0)/m/n/12 bers. Ask how you can help them with their
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 96--97
+Underfull \hbox (badness 1412) in paragraph at lines 78--79
+[]\EU1/GibsonLight(0)/m/n/12 Most importantly, don’t talk or brag about
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 87--88
 \EU1/GibsonLight(0)/m/n/12 prepared or the idea not thought through. It
  []
 
 [1
 
-] [2] [3] (./code_of_conduct_english_french.aux) ) 
+] [2] [3] [4] (./code_of_conduct_english_french.aux) ) 
 Here is how much of TeX's memory you used:
  15489 strings out of 495158
  319701 string characters out of 6175469
- 385413 words of memory out of 5000000
+ 387413 words of memory out of 5000000
  18676 multiletter control sequences out of 15000+600000
  4106 words of font info for 36 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  46i,4n,59p,10413b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on code_of_conduct_english_french.pdf (3 pages).
+Output written on code_of_conduct_english_french.pdf (4 pages).
