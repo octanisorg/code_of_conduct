@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.31)  1 SEP 2015 13:18
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.31)  2 SEP 2015 09:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -652,8 +652,8 @@ Underfull \hbox (badness 2635) in paragraph at lines 25--26
  []
 
 
-Underfull \hbox (badness 2126) in paragraph at lines 25--26
-\EU1/Gibson(0)/m/n/12 esprits curieux et créatives pour embarquer
+Underfull \hbox (badness 2165) in paragraph at lines 25--26
+\EU1/Gibson(0)/m/n/12 esprits curieux et créatifs pour s'embarquer
  []
 
 
@@ -662,28 +662,23 @@ Underfull \hbox (badness 1527) in paragraph at lines 25--26
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 25--26
-\EU1/Gibson(0)/m/n/12 des inventions qui sont accessible à tout le
+Underfull \hbox (badness 1033) in paragraph at lines 28--29
+[]\EU1/GibsonLight(0)/m/n/12 Chez Octanis, nous surmontons de grands
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 47--48
-[]\EU1/GibsonLight(0)/m/n/12 ... et sois courageux de mettre en ques-
+Underfull \hbox (badness 7099) in paragraph at lines 28--29
+\EU1/GibsonLight(0)/m/n/12 challenges dont d’autres ne font que parler.
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 61--62
+\EU1/GibsonLight(0)/m/n/12 Souvent, l’apprentissage de nouvelles compé-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
-\EU1/GibsonLight(0)/m/n/12 Souvent, l’apprentissage des nouvelles com-
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 61--62
-\EU1/GibsonLight(0)/m/n/12 pétences demande beaucoup de temps avant
- []
-
-
-Underfull \hbox (badness 2941) in paragraph at lines 61--62
-\EU1/GibsonLight(0)/m/n/12 d’atteindre ses buts. Tu es donc encouragé
+\EU1/GibsonLight(0)/m/n/12 tences demande beaucoup de temps avant
  []
 
 
@@ -691,11 +686,31 @@ Underfull \hbox (badness 1248) in paragraph at lines 61--62
 \EU1/GibsonLight(0)/m/n/12 te permettra de construire quelque chose très
  []
 
+
+Underfull \hbox (badness 3148) in paragraph at lines 61--62
+\EU1/GibsonLight(0)/m/n/12 Tu es encouragé à t’organiser toi-même et à
+ []
+
 [1
 
 ]
-Underfull \hbox (badness 1057) in paragraph at lines 105--106
-\EU1/GibsonLight(0)/m/n/12 gardées à porte close jusqu’à ce qu’elles sont
+Underfull \hbox (badness 2005) in paragraph at lines 77--79
+\EU1/GibsonLight(0)/m/n/12 Nous encourageons les membres d’Octanis à
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 100--102
+\EU1/GibsonLight(0)/m/n/12 ouvertement pour obtenir un feedback rapide.
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 100--102
+\EU1/GibsonLight(0)/m/n/12 Pour éviter la pensée de groupe, essaie aussi
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 107--108
+\EU1/GibsonLight(0)/m/n/12 ou de trouver des premiers utilisateurs ou des
  []
 
 [2]
@@ -709,38 +724,18 @@ Underfull \hbox (badness 1259) in paragraph at lines 125--127
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 143--144
-\EU1/GibsonLight(0)/m/n/12 ajoutée à la société. Cette valeur peut avoir
- []
-
-
-Underfull \hbox (badness 2608) in paragraph at lines 143--144
-\EU1/GibsonLight(0)/m/n/12 la forme d’aider des autres gens à accomplir
- []
-
-
-Underfull \hbox (badness 3769) in paragraph at lines 143--144
-\EU1/GibsonLight(0)/m/n/12 leurs buts, de réduire la souffrance générale,
- []
-
-
-Underfull \hbox (badness 4647) in paragraph at lines 143--144
-\EU1/GibsonLight(0)/m/n/12 d’améliorer l’apprentissage et l’éducation, de
- []
-
-
-Underfull \hbox (badness 2334) in paragraph at lines 159--162
-[]\EU1/GibsonLight(0)/m/n/12 Quand nous critiquons des autres vues et
+Underfull \hbox (badness 1436) in paragraph at lines 143--144
+\EU1/GibsonLight(0)/m/n/12 buts, réduire la souffrance générale, améliorer
  []
 
 ) [3] [4] (./code_of_conduct_english_french.aux) ) 
 Here is how much of TeX's memory you used:
- 15492 strings out of 495158
- 319825 string characters out of 6175469
+ 15495 strings out of 495158
+ 319926 string characters out of 6175469
  383413 words of memory out of 5000000
- 18676 multiletter control sequences out of 15000+600000
- 4106 words of font info for 36 fonts, out of 8000000 for 9000
+ 18678 multiletter control sequences out of 15000+600000
+ 4114 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 46i,4n,59p,10413b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,4n,59p,10413b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on code_of_conduct_english_french.pdf (4 pages).
