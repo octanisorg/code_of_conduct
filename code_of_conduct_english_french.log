@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.30)  3 SEP 2015 12:26
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.30)  3 SEP 2015 13:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -728,11 +728,21 @@ Underfull \hbox (badness 1436) in paragraph at lines 145--146
 \EU1/GibsonLight(0)/m/n/12 buts, réduire la souffrance générale, améliorer
  []
 
-[3]) [4] (./code_of_conduct_english_french.aux) ) 
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--191
+
+ []
+
+) [4] (./code_of_conduct_english_french.aux) ) 
 Here is how much of TeX's memory you used:
  15495 strings out of 495158
  319926 string characters out of 6175469
- 383413 words of memory out of 5000000
+ 384413 words of memory out of 5000000
  18678 multiletter control sequences out of 15000+600000
  4114 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
