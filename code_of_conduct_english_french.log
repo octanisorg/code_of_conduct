@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.31)  2 SEP 2015 09:34
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.30)  3 SEP 2015 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -647,27 +647,27 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 2635) in paragraph at lines 25--26
+Underfull \hbox (badness 2635) in paragraph at lines 27--28
 \EU1/Gibson(0)/m/n/12 Octanis met a disposition un espace à des
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 25--26
+Underfull \hbox (badness 2165) in paragraph at lines 27--28
 \EU1/Gibson(0)/m/n/12 esprits curieux et créatifs pour s'embarquer
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 25--26
+Underfull \hbox (badness 1527) in paragraph at lines 27--28
 \EU1/Gibson(0)/m/n/12 dans des missions exploratoires sur toute la
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 28--29
+Underfull \hbox (badness 1033) in paragraph at lines 30--31
 []\EU1/GibsonLight(0)/m/n/12 Chez Octanis, nous surmontons de grands
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 28--29
+Underfull \hbox (badness 7099) in paragraph at lines 30--31
 \EU1/GibsonLight(0)/m/n/12 challenges dont d’autres ne font que parler.
  []
 
@@ -719,16 +719,16 @@ Underfull \hbox (badness 1014) in paragraph at lines 119--120
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 125--127
+Underfull \hbox (badness 1259) in paragraph at lines 126--128
 \EU1/GibsonLight(0)/m/n/12 L’échec est inévitable. Tu as travaillé pour un
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 143--144
+Underfull \hbox (badness 1436) in paragraph at lines 145--146
 \EU1/GibsonLight(0)/m/n/12 buts, réduire la souffrance générale, améliorer
  []
 
-) [3] [4] (./code_of_conduct_english_french.aux) ) 
+[3]) [4] (./code_of_conduct_english_french.aux) ) 
 Here is how much of TeX's memory you used:
  15495 strings out of 495158
  319926 string characters out of 6175469
@@ -736,6 +736,6 @@ Here is how much of TeX's memory you used:
  18678 multiletter control sequences out of 15000+600000
  4114 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 46i,4n,59p,10413b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,4n,59p,10413b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on code_of_conduct_english_french.pdf (4 pages).
